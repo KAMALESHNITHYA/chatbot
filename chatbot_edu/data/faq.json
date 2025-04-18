@@ -1,0 +1,54 @@
+{
+  "faq": [
+    {
+      "intent": "admission_process",
+      "patterns": ["admission process", "how to apply", "how to get admission"],
+      "response": "To apply for admission, you need to register on the REAP portal and follow the counseling schedule."
+    },
+    {
+      "intent": "eligibility",
+      "patterns": ["eligibility", "who can apply", "minimum qualification"],
+      "response": "Candidates must have passed 12th with Physics, Chemistry, and Mathematics."
+    },
+    {
+      "intent": "placement",
+      "patterns": ["placement opportunities", "job opportunities", "campus placements"],
+      "response": "Most colleges offer placement assistance through their training and placement cells, with top companies visiting each year."
+    },
+    {
+      "intent": "fees",
+      "patterns": ["fees", "tuition fees", "how much is the fee?", "fee structure"],
+      "response": "The tuition fee is ₹45,000 per year. Additional hostel and exam fees may apply."
+    },
+    {
+      "intent": "hostel",
+      "patterns": ["hostel", "accommodation", "stay options", "hostel facilities"],
+      "response": "Most colleges provide hostel facilities for both boys and girls with mess and security."
+    },
+    {
+      "intent": "cutoff",
+      "patterns": ["cutoff", "previous year cutoff", "minimum marks", "cutoff marks"],
+      "response": "The cutoff marks vary each year. Please visit the official website for the latest details."
+    },
+    {
+      "intent": "contact_info",
+      "patterns": ["contact details", "contact information", "how to contact", "email", "phone number"],
+      "response": "You can contact the Department of Technical Education at dte@rajasthan.gov.in or call 0141-XXXXXXX."
+    },
+    {
+      "intent": "courses_offered",
+      "patterns": ["courses", "courses offered", "engineering courses", "polytechnic courses"],
+      "response": "The available courses include B.Tech in various branches and Diploma programs in Engineering."
+    },
+    {
+      "intent": "scholarships",
+      "patterns": ["scholarships", "financial aid", "scholarship details"],
+      "response": "There are various scholarships available for eligible students, including those from the government and private organizations."
+    },
+    {
+      "intent": "college_details",
+      "patterns": ["college details", "college information", "about the college", "facilities"],
+      "response": "Each college offers modern facilities like libraries, labs, sports, and extracurricular activities."
+    }
+  ]
+}
